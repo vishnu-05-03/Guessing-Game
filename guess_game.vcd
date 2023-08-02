@@ -1,0 +1,218 @@
+$date
+	Mon Jan 16 01:17:37 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module guess_game_tb $end
+$var wire 1 ! wrong $end
+$var wire 10 " LED [9:0] $end
+$var reg 10 # G [9:0] $end
+$var reg 1 $ clk $end
+$var reg 1 % reset $end
+$scope module dut $end
+$var wire 10 & G [9:0] $end
+$var wire 1 $ clk $end
+$var wire 1 % reset $end
+$var parameter 11 ' s1 $end
+$var parameter 11 ( s10 $end
+$var parameter 11 ) s2 $end
+$var parameter 11 * s3 $end
+$var parameter 11 + s4 $end
+$var parameter 11 , s5 $end
+$var parameter 11 - s6 $end
+$var parameter 11 . s7 $end
+$var parameter 11 / s8 $end
+$var parameter 11 0 s9 $end
+$var parameter 11 1 serr $end
+$var parameter 11 2 sok $end
+$var reg 10 3 LED [9:0] $end
+$var reg 11 4 nxtstate [10:0] $end
+$var reg 11 5 state [10:0] $end
+$var reg 1 ! wrong $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b0 2
+b1 1
+b1000000000 0
+b100000000 /
+b10000000 .
+b1000000 -
+b100000 ,
+b10000 +
+b1000 *
+b100 )
+b10000000000 (
+b10 '
+$end
+#0
+$dumpvars
+b10 5
+b100 4
+b1 3
+b0 &
+1%
+0$
+b0 #
+b1 "
+0!
+$end
+#1
+0%
+#5
+b1000 4
+b10 "
+b10 3
+b100 5
+1$
+#10
+0$
+#15
+b10000 4
+b100 "
+b100 3
+b1000 5
+1$
+#20
+0$
+#25
+b100000 4
+b1000 "
+b1000 3
+b10000 5
+1$
+#30
+0$
+#35
+b1000000 4
+b10000 "
+b10000 3
+b100000 5
+1$
+#40
+0$
+#45
+b10000000 4
+b100000 "
+b100000 3
+b1000000 5
+1$
+#50
+0$
+#55
+b100000000 4
+b1000000 "
+b1000000 3
+b10000000 5
+1$
+#60
+0$
+#65
+b1000000000 4
+b10000000 "
+b10000000 3
+b100000000 5
+1$
+#70
+0$
+#75
+b10000000000 4
+b100000000 "
+b100000000 3
+b1000000000 5
+1$
+#80
+0$
+#85
+b10 4
+b1000000000 "
+b1000000000 3
+b10000000000 5
+1$
+#90
+0$
+#91
+b0 4
+b1000000000 #
+b1000000000 &
+#95
+b0 5
+1$
+#100
+0$
+#101
+b10 4
+b0 #
+b0 &
+#105
+b100 4
+b1 "
+b1 3
+b10 5
+1$
+#110
+0$
+#111
+b0 4
+b1 #
+b1 &
+#115
+b0 5
+1$
+#120
+0$
+#121
+b10 4
+b0 #
+b0 &
+#125
+b100 4
+b10 5
+1$
+#130
+0$
+#131
+b1 4
+b10 #
+b10 &
+#135
+1!
+b1 5
+1$
+#140
+0$
+#141
+b10 4
+b0 #
+b0 &
+#145
+0!
+b100 4
+b10 5
+1$
+#150
+0$
+#155
+b1000 4
+b10 "
+b10 3
+b100 5
+1$
+#160
+0$
+#161
+b0 4
+b10 #
+b10 &
+#165
+b0 5
+1$
+#170
+0$
+#171
